@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684758274646",
+    "project_id": "podcast-app-54b41",
+    "storage_bucket": "podcast-app-54b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684758274646:android:71b92a5323fc005ce561f7",
+        "android_client_info": {
+          "package_name": "com.example.podcastland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684758274646-dau6rtmjtii44muuhtmvi6gjv1amjf89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7LTIOrt_uxPdR-kswlzUsMYebVWr84MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684758274646-dau6rtmjtii44muuhtmvi6gjv1amjf89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
